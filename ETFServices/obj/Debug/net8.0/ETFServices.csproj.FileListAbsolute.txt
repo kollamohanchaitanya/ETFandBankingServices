@@ -1,0 +1,15 @@
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/bin/Debug/net8.0/ETFServices
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/bin/Debug/net8.0/ETFServices.deps.json
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/bin/Debug/net8.0/ETFServices.runtimeconfig.json
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/bin/Debug/net8.0/ETFServices.dll
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/bin/Debug/net8.0/ETFServices.pdb
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/obj/Debug/net8.0/ETFServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/obj/Debug/net8.0/ETFServices.AssemblyInfoInputs.cache
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/obj/Debug/net8.0/ETFServices.AssemblyInfo.cs
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/obj/Debug/net8.0/ETFServices.csproj.CoreCompileInputs.cache
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/obj/Debug/net8.0/ETFServices.sourcelink.json
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/obj/Debug/net8.0/ETFServices.dll
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/obj/Debug/net8.0/refint/ETFServices.dll
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/obj/Debug/net8.0/ETFServices.pdb
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/obj/Debug/net8.0/ETFServices.genruntimeconfig.cache
+/Users/kollamohanchaitanya/RiderProjects/ConsoleApp3/ETFServices/obj/Debug/net8.0/ref/ETFServices.dll
