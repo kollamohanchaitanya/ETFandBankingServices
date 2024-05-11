@@ -1,4 +1,5 @@
 This layout project was designed do cover the following use cases and requirements: 
+
 1)A Customer could register a new Checking Account using its personal details. 
 
 2)Allow a customer to deposit funds into an existing account. 
@@ -13,7 +14,10 @@ This layout project was designed do cover the following use cases and requiremen
 
 7)Allow to get the customer details.
 
+
+
 Here are 10 use cases for an ETF (Exchange-Traded Fund) services application in the financial sector: NOTE: Methods are in progress
+
 1)User Registration: Allow users to register accounts with the ETF service by providing personal details such as name, email, and password.
 
 2)ETF Search and Discovery: Provide a search functionality for users to discover ETFs based on various criteria such as asset class, sector, geographic region, expense ratio, and performance metrics.
